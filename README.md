@@ -1,4 +1,4 @@
-# GOSEUNGGEUMGANGNURI
+# GOSEONGGEUMGANGNURI
 
 [Visit Source](https://www.gwgs.go.kr/kor/sub05_0307.do)
 
@@ -7,7 +7,7 @@
 CSS
 
 ```
-font-family: 'GOSEUNGGEUMGANGNURI';
+font-family: 'GOSEONGGEUMGANGNURI';
 ```
 
 &nbsp;
@@ -15,7 +15,7 @@ font-family: 'GOSEUNGGEUMGANGNURI';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/GOSEUNGGEUMGANGNURI/GOSEUNGGEUMGANGNURI.css" type="text/css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/GOSEONGGEUMGANGNURI/GOSEONGGEUMGANGNURI.css" type="text/css"/>
 ```
 
 &nbsp;
@@ -23,7 +23,7 @@ link
 import
 
 ```
-@import url('https://cdn.jsdelivr.net/gh/fonts-archive/GOSEUNGGEUMGANGNURI/GOSEUNGGEUMGANGNURI.css');
+@import url('https://cdn.jsdelivr.net/gh/fonts-archive/GOSEONGGEUMGANGNURI/GOSEONGGEUMGANGNURI.css');
 ```
 
 &nbsp;
@@ -32,13 +32,13 @@ font-face
 
 ```
 @font-face {
-    font-family: 'GOSEUNGGEUMGANGNURI';
+    font-family: 'GOSEONGGEUMGANGNURI';
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/GOSEUNGGEUMGANGNURI/GOSEUNGGEUMGANGNURI.woff2') format('woff2'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/GOSEUNGGEUMGANGNURI/GOSEUNGGEUMGANGNURI.woff') format('woff'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/GOSEUNGGEUMGANGNURI/GOSEUNGGEUMGANGNURI.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/GOSEUNGGEUMGANGNURI/GOSEUNGGEUMGANGNURI.ttf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/GOSEONGGEUMGANGNURI/GOSEONGGEUMGANGNURI.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/GOSEONGGEUMGANGNURI/GOSEONGGEUMGANGNURI.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/GOSEONGGEUMGANGNURI/GOSEONGGEUMGANGNURI.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/GOSEONGGEUMGANGNURI/GOSEONGGEUMGANGNURI.ttf') format('truetype');
 }
 ```
